@@ -11,7 +11,7 @@
 
 <br>
 
-<a href="https://github.com/nraajsingh55-dot">
+<a href="https://github.com/NeerajSingh-DevOps">
   <img src="https://img.shields.io/badge/GitHub-nraajsingh55--dot-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
