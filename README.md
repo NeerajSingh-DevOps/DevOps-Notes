@@ -12,10 +12,10 @@
 <br>
 
 <a href="https://github.com/NeerajSingh-DevOps">
-  <img src="https://img.shields.io/badge/GitHub/NeerajSingh-DevOps-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-NeerajSingh--DevOps-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/neeraj-singh-b86424178/">
+<a href="https://www.linkedin.com/in/neerajsingh-devops/">
   <img src="https://img.shields.io/badge/LinkedIn-Neeraj%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -234,3 +234,22 @@ DevOps-Notes/
 ├── 📁 Resources/
 │
 └── 📄 README.md
+```
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
+
+<a href="https://github.com/NeerajSingh-DevOps">
+  <img src="https://img.shields.io/badge/GitHub-NeerajSingh--DevOps-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/neerajsingh-devops/">
+  <img src="https://img.shields.io/badge/LinkedIn-Neeraj%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+<i>⭐ Star this repo if you find it useful for your own DevOps learning journey.</i>
+
+</div>
