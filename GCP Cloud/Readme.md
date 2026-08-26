@@ -1,6 +1,3 @@
-
-Bilkul bhai ❤️ samajh gaya. **Docker wali exact style/length mein**, ek hi baar copy-paste karne layak **GCP `README.md`** bana raha hoon — GCP fundamentals se lekar Compute Engine, VPC, IAM, Cloud Storage, GKE, Cloud SQL, Load Balancing, Security, Monitoring, Terraform, CI/CD aur interview topics tak.
-
 ```markdown
 <div align="center">
 
