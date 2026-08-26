@@ -133,3 +133,142 @@ Cloud Computing means using computing resources over the internet instead of mai
          VM        App Service    Microsoft 365
        Network      Database      Web Apps
        Storage      Functions     Software
+IaaS
+Infrastructure as a Service.
+Examples:
+- Azure Virtual Machines
+- Azure Virtual Network
+- Managed Disks
+You manage more of the infrastructure.
+PaaS
+Platform as a Service.
+Examples:
+- Azure App Service
+- Azure SQL Database
+- Azure Functions
+Azure manages more infrastructure for you.
+SaaS
+Software as a Service.
+Examples:
+- Microsoft 365
+- Outlook
+- Teams
+☁️ What is Microsoft Azure?
+Microsoft Azure is Microsoft's cloud computing platform.
+Azure provides services for:
+☁️ Compute
+🌐 Networking
+💾 Storage
+🗄️ Databases
+🔐 Identity
+🛡️ Security
+📊 Monitoring
+📦 Containers
+☸️ Kubernetes
+🔄 DevOps
+🤖 AI
+🏗️ Infrastructure as Code
+🏗️ Azure Global Infrastructure
+Azure infrastructure is organized into geographical locations.
+Geography
+    ↓
+Region
+    ↓
+Availability Zone
+    ↓
+Datacenter
+    ↓
+Azure Resources
+🌍 Region
+A region is a geographical area containing Azure datacenters.
+Examples:
+Central India
+South India
+West Europe
+East US
+Southeast Asia
+🏢 Availability Zone
+Availability Zones provide physical separation within supported Azure regions.
+                Azure Region
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+     Zone 1        Zone 2       Zone 3
+        │            │            │
+       VM-1         VM-2         VM-3
+Benefits
+- High Availability
+- Fault Isolation
+- Resilience
+- Better application availability
+🧱 Azure Architecture Hierarchy
+Azure management hierarchy:
+Management Group
+       ↓
+Subscription
+       ↓
+Resource Group
+       ↓
+Resources
+Example:
+Tenant
+  │
+  └── Management Group
+        │
+        └── Subscription
+              │
+              └── Resource Group
+                    │
+                    ├── VNet
+                    ├── VM
+                    ├── Storage
+                    ├── NSG
+                    └── Load Balancer
+📦 Resource Groups
+A Resource Group is a logical container for Azure resources.
+Example:
+rg-production
+│
+├── VNet
+├── Subnets
+├── NSG
+├── VM
+├── Public IP
+├── Load Balancer
+└── Storage Account
+Environment-based structure
+rg-dev
+rg-test
+rg-stage
+rg-prod
+Recommended Tags
+Environment = Production
+Owner       = DevOps
+Application = FinanceApp
+Department  = IT
+CostCenter  = FIN001
+👤 Microsoft Entra ID
+Microsoft Entra ID provides identity and access management.
+It manages:
+- Users
+- Groups
+- Applications
+- Service Principals
+- Managed Identities
+- Authentication
+- Authorization
+User
+ ↓
+Entra ID
+ ↓
+Authentication
+ ↓
+Authorization
+ ↓
+Azure Resource
+🔐 Azure RBAC
+RBAC = Role-Based Access Control.
+It determines:
+Who can do what on which resource?
+
+Common Roles
