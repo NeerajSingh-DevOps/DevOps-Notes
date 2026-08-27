@@ -1,4 +1,3 @@
-Bilkul bhai ❤️ Linux ke liye bhi same **professional DevOps Notes repository style** rakhenge. Isme basic commands se lekar **users, permissions, processes, services, networking, SSH, storage, logs, package management, shell scripting, troubleshooting aur DevOps use-cases** tak cover hoga.
 
 <div align="center">
 
